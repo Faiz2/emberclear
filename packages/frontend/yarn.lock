@@ -5142,9 +5142,10 @@ ember-cli-version-checker@^2.0.0, ember-cli-version-checker@^2.1.0, ember-cli-ve
     resolve "^1.3.3"
     semver "^5.3.0"
 
-"ember-cli@github:ember-cli/ember-cli#6e84ea4da023960f89404a781375223e6c833609":
-  version "3.5.0"
-  resolved "https://codeload.github.com/ember-cli/ember-cli/tar.gz/6e84ea4da023960f89404a781375223e6c833609"
+"ember-cli@github:ember-cli/ember-cli#6e162a06bdabea8b3ae815b45df5282c04953e0c":
+  version "3.6.0-beta.1"
+  uid "6e162a06bdabea8b3ae815b45df5282c04953e0c"
+  resolved "https://codeload.github.com/ember-cli/ember-cli/tar.gz/6e162a06bdabea8b3ae815b45df5282c04953e0c"
   dependencies:
     amd-name-resolver "^1.2.0"
     babel-plugin-transform-es2015-modules-amd "^6.24.1"
